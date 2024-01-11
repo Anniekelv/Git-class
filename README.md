@@ -17,7 +17,7 @@
 **Git Pull basically brings the local branch up-to-date with the remote copy that will also updates the other remote tracking branches.**
 
 ## EXPLAIN IN SIMPLE TERMS GIT REBASE AND THE COMMAND FOR IT
-* Git rebase is changing the base of your branch from one commit to another making it appear as if you'd created your branch from a different commit.*
+*Git rebase is changing the base of your branch from one commit to another making it appear as if you'd created your branch from a different commit.*
 ### The command
 1. Go to the branch in need of rebasing
 2. Enter git fetch origin (This syncs your main branch with the latest changes)
